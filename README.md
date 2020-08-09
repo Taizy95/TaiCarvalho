@@ -1,6 +1,5 @@
 ### Hi there  👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+
 
 <!---
 **TaiCarvalho/TaiCarvalho**
